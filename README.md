@@ -7,6 +7,18 @@ Ela consome a [API de Notas](https://github.com/liviaghirardi/api-notas-backend)
 - **Deploy (Vercel):** https://api-notas-frontend-bay.vercel.app
 - **API (Render):** https://api-notas-backend-qp4b.onrender.com
 
+## Prints da aplicação em funcionamento
+
+| | |
+|---|---|
+| **1. Listar** (`GET`) ![Listar notas](prints/1-listar-notas.png) | **2. Preencher o formulário** ![Criar nota](prints/2-criar-nota-formulario.png) |
+| **3. Nota criada** (`POST`) ![Nota criada](prints/3-nota-criada.png) | **4. Editar** ![Editar nota](prints/4-editar-nota.png) |
+| **5. Nota editada** (`PUT`) ![Nota editada](prints/5-nota-editada.png) | **6. Nota excluída** (`DELETE`) ![Nota excluída](prints/6-nota-excluida.png) |
+
+### Código das requisições
+
+![Código do App.jsx](prints/codigo-requisicoes.png)
+
 ## Funcionalidades
 
 | Operação | O que o usuário faz | Requisição |
