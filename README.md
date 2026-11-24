@@ -5,7 +5,7 @@ Aplicação front-end em **React + Vite** desenvolvida para a Atividade 02 da Au
 Ela consome a [API de Notas](https://github.com/liviaghirardi/api-notas-backend) hospedada no Render e permite realizar todas as operações CRUD.
 
 - **Deploy (Vercel):** _adicionar link após o deploy_
-- **API (Render):** _adicionar link após o deploy_
+- **API (Render):** https://api-notas-backend-qp4b.onrender.com
 
 ## Funcionalidades
 
